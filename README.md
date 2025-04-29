@@ -1,8 +1,6 @@
 ### Hi there mi nombre es Rafael Bárcena 
 
 Actualmente soy estudiante de universidad en ingieneria de software y estoy aprediendo poco a poco el mundo de programar 
-
-siganme en instagram @rafa_bg13
 <!--
 **RafaBG13/RafaBG13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
